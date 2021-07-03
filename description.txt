@@ -13,3 +13,9 @@ There are six attributes associated with each request made by a customer:
 by the driver or no cars available
 
 It contains 6754 rows and 6 columns.
+
+Problem statement
+Identify the data quality issues and clean the data so that you can use it for analysis.
+Ensure that the dates and time are in the proper format. Derive new variables which will
+be useful for analysis.
+What do you think is the reason for this issue for the supply-demand gap?
